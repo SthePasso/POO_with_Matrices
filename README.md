@@ -9,4 +9,4 @@ Digite no terminal: java Main
 
 Escolha uma ordem de matriz com números inteiros maiores que zero (0) e digite-o
 
-Será gerada uma matriz com números ransomigos de zero (0) a vinte (20) e calculada sua determinante com métodos mais otimizados e menos otimizados.
+Será gerada uma matriz com números ransomigos de zero (0) a vinte (20) e calculada sua determinante com métodos mais otimizados e menos otimizados utilizando Paradigma Orientado a Objeto.
